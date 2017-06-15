@@ -8,12 +8,36 @@ body{
 	color: white;
 }
 
-#footer{
+#footer p{
 	text-align: left;
-	background-color: gray;
+	background-color: dimgray;
 	color: white;
+	font-size: 11px;
 }
 
 a{
 	color: white;
+}
+
+h1{
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.btlink{
+	font-size: 18px;
+}
+
+h2{
+	font-size:32px;
+	font-weight: bold;
+}
+
+h3{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+p{
+	font-size: 14px;
 }
