@@ -1,0 +1,19 @@
+body{
+	font-family: helvetica;
+	text-align: center;
+}
+
+.build{
+	background-image: url(../images/flatiron.png);
+	color: white;
+}
+
+#footer{
+	text-align: left;
+	background-color: gray;
+	color: white;
+}
+
+a{
+	color: white;
+}
